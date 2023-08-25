@@ -4,4 +4,4 @@
 You can see PCB layout in below:
 ![image](Images/1.png)
 ![image](Images/2.png)
-![image](Images/3.png)
+![image](Images/3.jpeg)
